@@ -1,5 +1,5 @@
 <?php
-
+//comment
 require_once("emailFunction.php");
 
 $Email = "";
